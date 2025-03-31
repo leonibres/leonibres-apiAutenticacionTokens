@@ -48,7 +48,7 @@ Framework que implementa un sistema de autenticación basado en tokens. Permite 
 ### **Cómo usar**
 1. Clona este repositorio:
    ```bash
-   git clone <https://github.com/leonibres/leonibres-apiAutenticacionTokens/new/main?filename=README.md>
+   git clone <https://github.com/leonibres/leonibres-apiAutenticacionTokens.git>
    ```
 2. Navega al directorio del proyecto:
    ```bash
